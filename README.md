@@ -16,9 +16,6 @@
 <a href="https://bit.ly/3Pbv1xt" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="Hack-The-Box"/>
 </a>
-<a href="https://discord.gg/xWaAhBRxz6" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/johnathan-frabetti-b04193207/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
