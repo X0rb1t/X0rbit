@@ -10,11 +10,11 @@
 ## 🛠 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://bit.ly/3xTqpY3" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="codepen"/>
+<a href="https://bit.ly/3PfRBFg" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="TryHackme"/>
 </a>
-<a href="https://bit.ly/3EJC90B" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="youtube"/>
+<a href="https://bit.ly/3Pbv1xt" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="Hack-The-Box"/>
 </a>
 <a href="https://discord.gg/xWaAhBRxz6" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="twitter"/>  
