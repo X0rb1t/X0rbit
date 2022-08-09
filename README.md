@@ -8,17 +8,18 @@
 - CTF Player
 
 ## 🛠 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://bit.ly/3PfRBFg" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="TryHackme"/>
-</a>
-<a href="https://bit.ly/3Pbv1xt" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="Hack-The-Box"/>
-</a>
-<a href="https://www.linkedin.com/in/johnathan-frabetti-b04193207/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+<center>
+  <p align="left" style="background:yellow">
+  <a href="https://bit.ly/3PfRBFg" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Tryhackme-05122A?style=flat&logo=tryhackme" alt="TryHackme"/>
+  </a>
+  <a href="https://bit.ly/3Pbv1xt" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Hackthebox-05122A?style=flat&logo=hackthebox" alt="Hack-The-Box"/>
+  </a>
+  <a href="https://www.linkedin.com/in/johnathan-frabetti-b04193207/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+</center>
 </p>
 
 <p align="center">
