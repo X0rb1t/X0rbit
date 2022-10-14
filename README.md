@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Johnathan Frabetti!☣️ :D</h1>
+<h1 align="left">Hello, I'm Johnathan Frabetti! 🐰 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xC03LH0&color=yellow" alt="Profile views" /> </p>
 
 - Developer and Security Researcher.
