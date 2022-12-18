@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/758U.gif"alt=":v" />
+  <img src="https://media.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif"alt=":v" />
 </p>
 
 ## 🛠 &nbsp;Tech Stack
