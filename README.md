@@ -19,10 +19,12 @@
 <a href="https://www.linkedin.com/in/johnathan-frabetti-b04193207/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://www.youtube.com/@0xbunny" target="_blank">
+  <img align="center" src="https://img.shields.io/youtube/channel/views/UC3te_UR2TeWFL1OfaK2KFGg" alt="linkedin"/>
+</a>
 </p>
-
 <p align="center">
-  <img src="https://media.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif"alt=":v"/>
+  <img src="https://media.tenor.com/spSgkqK707kAAAAd/ok-all.gif"alt=":v"/>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
