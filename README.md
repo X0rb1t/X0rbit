@@ -24,7 +24,7 @@
 </a>
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/spSgkqK707kAAAAd/ok-all.gif"alt=":v"/>
+  <img src="https://media.tenor.com/heBl6UHvYLQAAAAd/cyberchase-cyberspace.gif"alt=":v"/>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
