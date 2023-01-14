@@ -3,7 +3,7 @@
 
 - Developer and Security Researcher.
 
-- Pentester & Engineer reversing.
+- Pentester & Reverse engineer.
 
 - CTF Player
 
