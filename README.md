@@ -33,9 +33,3 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
   ![ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=0xC03LH0&show_icons=true&theme=vision-friendly-dark" alt="0xC03LH0's stats"/>
-</p>
